@@ -1,0 +1,16 @@
+using System;
+
+namespace TEst{
+
+class Test1{
+
+public static void main(string [] args){
+
+Console.WriteLine("Test.")
+
+}
+
+}
+
+
+}
